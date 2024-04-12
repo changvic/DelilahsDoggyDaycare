@@ -302,6 +302,7 @@ header h1 {
 .contact h2 {
     text-align: center;
     margin-bottom: 24px; 
+}
 
 .contact .flex {
     display: grid;
@@ -335,6 +336,4 @@ header h1 {
 .contact button {
     width: 300px; 
     margin-left: calc(100% - 300px);
-}
-
 }
